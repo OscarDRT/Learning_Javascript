@@ -44,6 +44,6 @@ let obj = {      //Object
 console.log(obj);
 console.log(typeof obj);
 
-let value = new Date(); //Object
+let value = new Date(); // Object
 console.log(value);
 console.log(typeof value);
