@@ -2,7 +2,7 @@ let num1 = 20;
 let num2 = 50;
 let num3 = '20';
 
-// comparators '<'  '>'
+// comparators '<' '>'
 console.log(num1 > num2); // false
 console.log(20 > 50); // false
 console.log(num1 < num2); // true
