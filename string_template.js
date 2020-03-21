@@ -4,6 +4,7 @@ const product1 = 'Pizza',
       price2 = 15;
 
 let html;
+
 /*
 html = '<ul>' +
           '<li>Order: ' + product1 + '</li>' +
