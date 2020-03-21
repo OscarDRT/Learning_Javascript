@@ -20,7 +20,7 @@ console.log(Number(true)); // 1
 console.log(Number(false)); // 0
 console.log(parseInt('100')); // 100
 console.log(parseInt('100.123')); // 100
-console.log(parseFloat('100.123')) // 100.123
+console.log(parseFloat('100.123'))  // 100.123
 
 //toFixed
 let data = 123.456;
